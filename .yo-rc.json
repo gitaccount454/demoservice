@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.qssi.demo"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "dmeoapp",
+    "packageName": "com.qssi.demo",
+    "packageFolder": "com/qssi/demo",
+    "serverPort": "8085",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjhjYWI4OTI2YTI4N2QyNzA1ZjU3NTI4ZDU1ZWNiN2IyN2Y0NTk3MTYzYmI2ZDFlYzU3ODhiZGRmOTNmYzI1OGI5MjZlZmMwYmU5NTI3M2I0YTQ2OWJmM2Y1YWJlZWNkYjhkYmQ0ZGU1YjUwY2JhMGE3MjU2Nzc0YTkyMjE5Mzc=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1588172976173,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
